@@ -42,7 +42,7 @@ void middtab1(void);
 void backuploader(void);
 
 
-        ///START Structure Here
+        ///START Structure 
 
 struct Node{
 
